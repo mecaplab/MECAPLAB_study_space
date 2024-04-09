@@ -15,6 +15,7 @@
 - [Econometria: Conceitos e Aplicações](https://www4.eco.unicamp.br/docentes/gori/105-menu-principal/304-econometria-i), Alexandre Gori Maia. - aplicações com R
 - [Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios](https://a.co/d/3hb86jf), Cole Nussbaumer Knaflic.
 - [Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas](https://a.co/d/5qE3ZBg), Marco Antonio Leonel Caetano.
+- [Using R, Python and Julia for Introductory Econometrics](http://www.upfie.net/), Florian Heiss e Daniel Brunner. - aplicações em R, Python e Julia
 
 ## Repositórios do GitHub
 
