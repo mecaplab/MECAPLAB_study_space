@@ -1,7 +1,7 @@
 
 ![MECAPLAB](https://github.com/mecaplab/MECAPLAB_study_space/assets/55666040/be22edb8-49d4-4bd4-9fc3-5a6376912662)
 
-# Espaço para Estudo - MECAPLAB 📚👨‍💻
+# Materiais do Estudante - MECAPLAB 📚👨‍💻
 
 > Apenas conteúdos gratuitos e acessiveis na internet. Com exceções de alguns livros (com links pra Amazon).
 
