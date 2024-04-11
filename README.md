@@ -5,6 +5,12 @@
 
 > Apenas conteúdos gratuitos e acessiveis na internet. Com exceções de alguns livros (com links pra Amazon).
 
+# Índice
+* [Cursos](#Cursos)
+* [Livros](#Livros)
+* [Repositórios do GitHub](#Repositórios-do-GitHub)
+* [Sites](#Sites)
+
 ## Cursos
 
 - [Cusos gratuitos da Data Science Academy](https://www.datascienceacademy.com.br/cursosgratuitos) - Python e Power BI para análise e ciência de dados.
